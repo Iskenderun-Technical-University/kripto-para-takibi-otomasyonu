@@ -1,4 +1,4 @@
-# proje-planlama-borsa-takibi-otomasyonu
+# Borsa-Takibi-Otomasyonu
 
 Tüm tasarım ve kodlama işlemleri. (Hacı Samet TUNAY)
 
