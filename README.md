@@ -1,8 +1,12 @@
 # Borsa-Takibi-Otomasyonu
 
+### Proje Açıklaması
+
 Program çalıştığı süre içerisinde borsada düşüş veya artış olduğu zaman Telegram uygulamasından mesaj gönderecek
 
-Tüm tasarım ve kodlama işlemleri. (Hacı Samet TUNAY)
+### Kullanılacak Diller
+
+* [Python](https://www.python.org/)
 
 * Uygun borsa sitesinin bulunması ve siteye istekde bulunma 
 
@@ -12,3 +16,7 @@ Tüm tasarım ve kodlama işlemleri. (Hacı Samet TUNAY)
 
 * Telegramdan mesaj gönderme 
 
+### Projeyi Oluşturan
+
+Hacı Samet TUNAY 
+Numara: 192523068
