@@ -20,5 +20,6 @@ Borsada düşüş veya artış olduğu zaman Telegram uygulamasından mesaj gön
 
 ### Projeyi Oluşturan
 
-Hacı Samet TUNAY 
+Hacı Samet TUNAY
+
 Numara: 192523068
