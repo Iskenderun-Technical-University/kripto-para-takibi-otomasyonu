@@ -4,11 +4,11 @@ Program çalıştığı süre içerisinde borsada düşüş veya artış olduğu
 
 Tüm tasarım ve kodlama işlemleri. (Hacı Samet TUNAY)
 
-*Uygun borsa sitesinin bulunması ve siteye python ile istekde bulunma 
+* Uygun borsa sitesinin bulunması ve siteye python ile istekde bulunma 
 
-*Verileri çekme ve kod düzenleme 
+* Verileri çekme ve kod düzenleme 
 
-*Terminal tasarımı 
+* Terminal tasarımı 
 
-*Telegramdan mesaj gönderme 
+* Telegramdan mesaj gönderme 
 
