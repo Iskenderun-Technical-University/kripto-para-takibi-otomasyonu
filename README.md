@@ -8,4 +8,4 @@ Uygun borsa sitesinin bulunması ve siteye python ile istekde bulunma - 02.04.20
 
 
 Arayüz tasarımı - 05.04.2022
-............
+
