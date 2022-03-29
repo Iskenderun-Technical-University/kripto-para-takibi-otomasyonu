@@ -2,11 +2,13 @@
 
 ### Proje Açıklaması
 
-Program çalıştığı süre içerisinde borsada düşüş veya artış olduğu zaman Telegram uygulamasından mesaj gönderecek
+Borsada düşüş veya artış olduğu zaman Telegram uygulamasından mesaj gönderen program
 
 ### Kullanılacak Diller
 
 * [Python](https://www.python.org/)
+
+### İş Akış
 
 * Uygun borsa sitesinin bulunması ve siteye istekde bulunma 
 
