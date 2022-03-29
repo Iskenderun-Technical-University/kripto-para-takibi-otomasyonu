@@ -1,5 +1,4 @@
 # proje-planlama-borsa-takibi-otomasyonu
-proje-planlama-borsa-takibi-otomasyonu created by GitHub Classroom
 
 Tüm tasarım ve kodlama işlemleri. (Hacı Samet TUNAY)
 
