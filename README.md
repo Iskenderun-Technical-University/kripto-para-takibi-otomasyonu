@@ -14,7 +14,7 @@ Borsada düşüş veya artış olduğu zaman Telegram uygulamasından mesaj gön
 
 * Verileri çekme ve kod düzenleme 
 
-* Terminal tasarımı 
+* Arayüz tasarımı 
 
 * Telegramdan mesaj gönderme 
 
