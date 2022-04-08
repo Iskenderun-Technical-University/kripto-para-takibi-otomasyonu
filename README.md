@@ -2,7 +2,7 @@
 
 ### Projenin Amacı
 
-Borsayı takip etmeyi kolaylaştırmak ve özelleştirmek. Bu projede sadece borsa takipi değil coinler gibi farklı para birimlerini bu yöntemle takip edilebilir.
+Borsayı takip etmeyi kolaylaştırmak ve özelleştirmek. Bu projede sadece borsa takipi değil coinler gibi farklı para birimleri bu yöntemle takip edilebilir.
 
 ### Kullanılacak Diller
 
