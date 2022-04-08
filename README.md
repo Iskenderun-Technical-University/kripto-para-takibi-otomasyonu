@@ -1,8 +1,8 @@
 # Borsa-Takibi-Otomasyonu
 
-### Proje Açıklaması
+### Projenin Amacı
 
-Borsada düşüş veya artış olduğu zaman Telegram uygulamasından mesaj gönderen program
+Borsayı takip etmeyi kolaylaştırmak ve özelleştirmek bu projede sadece borsa değil coinler gibi farklı para birimlerini bu yöntemle takip edilebilir.
 
 ### Kullanılacak Diller
 
