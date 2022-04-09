@@ -6,7 +6,7 @@ Borsayı takip etmeyi kolaylaştırmak ve özelleştirmek. Bu projede sadece bor
 
 ### Kullanılacak Diller
 
-* [Python](https://www.python.org/)
+* [Go](https://www.golang.org/)
 
 ### İş Akış
 
