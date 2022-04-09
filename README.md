@@ -2,7 +2,7 @@
 
 ### Projenin Amacı
 
-Takip etmeyi kolaylaştırmak ve özelleştirmek. Projenin amacı reklamlara ve çıkarcı sitelere takılmadan kolay bir şekilde kripto paraların değerleri öğrenmektir.  Projenin bana sağlayacakları yeni ve popüler olan [Golang](https://www.golang.org/) dilini öğrenmek ve gelişmek olacaktır.
+Takip etmeyi kolaylaştırmak ve özelleştirmek. Projenin amacı reklamlara ve çıkarcı sitelere takılmadan kolay bir şekilde kripto paraların değerleri öğrenmektir.  Projenin bana sağlayacakları yeni ve popüler olan [Golang](https://www.golang.org/) dilini öğrenimi ve proje geliştirme becerileri arttıracaktır.
 
 ### Kullanılacak Diller
 
