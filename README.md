@@ -16,8 +16,6 @@ Takip etmeyi kolaylaştırmak ve özelleştirmek. Projenin amacı reklamlara ve 
 
 * Arayüz tasarımı 
 
-* Telegramdan mesaj gönderme 
-
 ### Projeyi Oluşturan
 
 Hacı Samet TUNAY
