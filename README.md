@@ -10,11 +10,11 @@ Takip etmeyi kolaylaştırmak ve özelleştirmek. Projenin amacı reklamlara ve 
 
 ### İş Akış
 
-* Uygun borsa sitesinin bulunması ve siteye istekde bulunma 
+- [x] Uygun borsa sitesinin bulunması ve siteye istekde bulunma 
 
-* Verileri çekme ve kod düzenleme 
+- [x] Verileri çekme ve kod düzenleme 
 
-* Arayüz tasarımı 
+- [ ] Arayüz tasarımı 
 
 ### Projeyi Oluşturan
 
