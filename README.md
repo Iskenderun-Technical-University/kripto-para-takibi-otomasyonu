@@ -9,14 +9,13 @@
 
 Projenin amacı reklamlara ve sahte sitelere takılmadan kolay bir şekilde kripto paraların değerleri takip etmeyi kolaylaştırmayı ve tahmini kazancı veya zararı öğrenmektir. Projenin bana sağlayacakları yeni ve popüler olan [Golang](https://www.golang.org/) dilini öğrenimi ve proje geliştirme becerileri arttırmasıdır.
 
-### Kullanılacak Diller
-
-* [Go](https://www.golang.org/)
-
 ### Use Case Diyagramı
 
 ![Screenshot_1](https://user-images.githubusercontent.com/79511355/163799692-8805d6c7-c248-476c-8099-04c639ecc0b1.png)
 
+### Kullanılacak Diller
+
+* [Go](https://www.golang.org/)
 
 ### Görevler
 
