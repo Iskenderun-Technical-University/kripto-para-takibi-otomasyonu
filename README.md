@@ -15,8 +15,7 @@ Projenin amacı reklamlara ve sahte sitelere takılmadan kolay bir şekilde krip
 
 ### İş Akış Diyagramı
 
-![untitled@1 25x](https://user-images.githubusercontent.com/79511355/163884511-9707be5e-f6de-4e07-b81f-7211ddd233b7.png)
-
+![untitled@1 25x (1)](https://user-images.githubusercontent.com/79511355/163885647-1b7bc4c7-24b2-457a-ad5a-403ebb771965.png)
 
 ### Kullanılacak Diller
 
