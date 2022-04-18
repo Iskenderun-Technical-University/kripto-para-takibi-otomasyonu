@@ -21,7 +21,7 @@ Projenin amacı reklamlara ve sahte sitelere takılmadan kolay bir şekilde krip
 
 - [x] Uygun borsa sitesinin bulunması ve siteye istekde bulunma 
 
-- [x] Verileri çekme ve kod düzenleme 
+- [x] Terminal üzerinden verileri çekme
 
 - [ ] Zamana göre yatırılan paranın kazancını veya zararını hesaplama 
 
