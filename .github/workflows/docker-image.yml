@@ -14,7 +14,7 @@ jobs:
 
     steps:
     - name: Build the Docker image
-    - uses: actions/checkout@v3
+      uses: actions/checkout@v3
       with:
         image: samettunay/demo-app
         registry: docker.io
