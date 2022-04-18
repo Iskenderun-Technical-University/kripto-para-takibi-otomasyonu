@@ -11,8 +11,7 @@ Projenin amacı reklamlara ve sahte sitelere takılmadan kolay bir şekilde krip
 
 ### Use Case Diyagramı
 
-![Screenshot_1](https://user-images.githubusercontent.com/79511355/163881917-8e65890b-18b5-46b3-8653-d9095aaed5a0.png)
-
+![Screenshot_3](https://user-images.githubusercontent.com/79511355/163882098-d8cf5cdd-5445-40b9-abc7-81d34d2b6e23.png)
 
 ### Kullanılacak Diller
 
