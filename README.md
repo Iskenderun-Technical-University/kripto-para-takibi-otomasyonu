@@ -25,13 +25,13 @@ Projenin amacı reklamlara ve sahte sitelere takılmadan kolay bir şekilde krip
 
 - [ ] Arayüz tasarımı 
 
-### Kullanım
+### Kurulum
 
 ```
  go get github.com/samettunay/coins-info
 ```
 
-### Çıktı
+### Kullanım
 
 ```go
 coins.ShowLiveTable(10)
