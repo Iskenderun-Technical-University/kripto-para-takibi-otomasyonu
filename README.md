@@ -13,7 +13,7 @@ Takip etmeyi kolaylaştırmak ve özelleştirmek. Projenin amacı reklamlara ve 
 
 * [Go](https://www.golang.org/)
 
-### İş Akış
+### Görevler
 
 - [x] Uygun borsa sitesinin bulunması ve siteye istekde bulunma 
 
