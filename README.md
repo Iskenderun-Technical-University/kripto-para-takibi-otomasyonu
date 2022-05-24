@@ -29,7 +29,7 @@ Projenin amacı reklamlara ve sahte sitelere takılmadan kolay bir şekilde krip
 
 - [ ] Zamana göre yatırılan paranın kazancını veya zararını hesaplama 
 
-- [ ] Arayüz tasarımı 
+- [ ] Terminal Ekranı Tasarımı
 
 ### Kurulum
 
