@@ -27,9 +27,9 @@ Projenin amacı reklamlara ve sahte sitelere takılmadan kolay bir şekilde krip
 
 - [x] Terminal üzerinden verileri çekme
 
-- [ ] Zamana göre yatırılan paranın kazancını veya zararını hesaplama 
+- [x] Zamana göre yatırılan paranın kazancını veya zararını hesaplama 
 
-- [ ] Terminal Ekranı Tasarımı
+- [x] Terminal Ekranı Tasarımı
 
 ### Kurulum
 
@@ -44,6 +44,12 @@ coins.ShowLiveTable(10)
 ```
 
 ![Screenshot_1](https://user-images.githubusercontent.com/79511355/162594936-dfb17f6b-3650-493c-808f-407b7a3dad8c.png)
+
+```go
+coins.Info("BTC")
+```
+
+![Screenshot_4](https://user-images.githubusercontent.com/79511355/162624537-f2f44f79-c658-4a37-8df4-042d6becafc4.png)
 
 
 ### Projeyi Oluşturan
